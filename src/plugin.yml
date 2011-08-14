@@ -1,0 +1,5 @@
+name: HTTPConsole
+main: org.theanticookie.bukkit.HTTPConsole
+author: BlueJeansAndRain
+description: Provides access to the console through an HTTP interface.
+version: 0.3.0
